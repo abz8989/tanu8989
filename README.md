@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abz8989
+- 👋 Hi, I’m @tanushree89
 - 👀 I’m interested in computer science 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
