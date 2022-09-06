@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tanushree89
 - 👀 I’m interested in computer science 
 - 🌱 I’m currently learning python
+- 📫 I’m currently learning C language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tanushreeranchi999@gmail.com
 
